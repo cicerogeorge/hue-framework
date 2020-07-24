@@ -1,0 +1,25 @@
+{
+    "development": {
+        "dir": "/hue-framework",
+        "database_host": "127.0.0.1",
+        "database_name": "",
+        "database_user": "",
+        "database_pass": "",
+        "database_prefix": "",
+        "http_port": ""
+    },
+    "production": {
+        "dir": "",
+        "database_host": "",
+        "database_name": "",
+        "database_user": "",
+        "database_pass": "",
+        "database_prefix": "",
+        "http_port": ""
+    },
+    "system_name": "",
+    "language": "",
+    "env": "development",
+    "version": "1.0.1",
+    "last_update": ""
+}
